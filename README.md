@@ -1,3 +1,21 @@
+
+<div align="center">
+
+  [![JavaScript Banner][banner]](DIRECTORY.md)
+
+  [![Checks][checks]][actions]
+  [![Contributions Welcome][welcome]](CONTRIBUTING.md)
+  [![standard.js][standard-logo]][standard-js]
+  [![Discord chat][chat]][discord-server]
+
+  
+</div>
+
+---
+
+
+
+
 ## Learning-JS
 
 - Beginner project in logic programming with Java Script
